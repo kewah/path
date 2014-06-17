@@ -2,7 +2,7 @@
   "name": "path",
   "repo": "kewah/path",
   "description": "the path module from node core for browsers",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [
     "path"
   ],
